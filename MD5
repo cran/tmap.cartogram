@@ -1,7 +1,9 @@
-63d131e35299604855e9a8b5b787a29b *DESCRIPTION
-cdf14803130779686d1d152c3f482682 *NAMESPACE
-2e5f150706a9a15997e8f68dc0fb8a0e *NEWS
-e9eab32fe52e83c629ff22412c41363a *R/tm_layers_cartogram.R
-2b2c9b6e30f0b4efa5e5a9e8efbb507f *R/tmapTransCartogram.R
-ce8d8d2479197e9bdb5fa34b38fabc80 *man/tm_cartogram.Rd
+8781d279c316761243c74d5adc524e51 *DESCRIPTION
+e7667e0c89b4aadc123c034c74a3c0d0 *NAMESPACE
+84ac511ff069e92156ba075db12de682 *NEWS
+ddc13ceaedde95509a0981443d9bc5d8 *R/onload.R
+ff7ce4177052562a28a19bc868e97813 *R/tm_layers_cartogram.R
+3345de2f816efdbd4fe5e4a58dc081b1 *R/tmapTransCartogram.R
+d345c3d180a2751099b51fbb19611120 *man/figures/logo.png
+6f4edceb066256350a2473ef6c703d79 *man/tm_cartogram.Rd
 fe8fd6d5386457031b305fccd170d285 *man/tmapTransCartogram.Rd
